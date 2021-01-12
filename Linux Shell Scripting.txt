@@ -1,0 +1,20 @@
+Linux Shell Scripting
+
+Linux is made up of
+1. The Linux Kernel
+2. The GNU Utilities 
+3. A graphical desktop environment
+4. Application software 
+
+The kernel is the core of the linux system. it controls all hardware and software
+on the computer. 
+
+Kernel is responsible for 
+
+1. System memory management - memory stored into pages
+2. Software program management - a running program (a process)
+3. Hardware managment - any hardware must communicate using drivers
+4. Filesystem management - Different filesystem types supported, (NTFS is 
+common these days)
+
+(more later)
